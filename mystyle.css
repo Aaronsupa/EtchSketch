@@ -1,3 +1,10 @@
+.bigC{
+    display: flex;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-content: space-evenly;
+    align-items: center;
+}
 .container{
     display: grid;
     grid-template-columns: auto auto auto auto;
